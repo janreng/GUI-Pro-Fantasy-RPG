@@ -2,7 +2,7 @@
 	"name": "com.gui.pro.fantasy",
 	"version": "2.1.0",
 	"displayName" : "GUI Pro Fantasy RPG",
-	"unity" : "2021.3.22",
+	"unity" : "2021.3",
 	"author": {
 		"name": "GiangNB",
 		"email": "giangnb.it@gmail.com",
